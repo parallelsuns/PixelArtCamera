@@ -41,5 +41,5 @@ You'll need the cst816 library, which can be found as part of the 'offline compo
 3. Insert battery into the compartment in the case.
 4. Cut 1 lead from the battery and solder the rocker switch in between the 2 halves.
 5. Connect the battery to VBAT and G on the ESP32 board.
-6. Slide the board into the enclosure.
+6. Slide the board into the enclosure. Secure it with adhesive/screws.
 7. Compile the firmware and flash it via USB.
