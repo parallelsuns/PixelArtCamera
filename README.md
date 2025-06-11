@@ -33,7 +33,7 @@ You'll need the cst816 library, which can be found as part of the 'offline compo
 | OV5640 Camera Module                                     | https://www.waveshare.com/product/arduino/boards-kits/esp32/esp32-s3-touch-lcd-2.htm?sku=29668                                       | (Optionally bundled with the ESP32-S3-Touch-LCD-2-C from above URL)                                                   |
 | 400 mAh 3.7v Li-Po Battery (dimensions approx 48x16x5mm) | https://kuriosity.sg/products/3-7v-li-po-lithium-polymer-battery-100mah-400mah-600mah-1600mah-2000mah-5000mah?variant=50332363096377 | Any Li-Po battery works. If you wish to use the 3d printed case STL the battery should fit within the give dimensions |
 | SPST Rocker Switch (mounting hole 13x9mm)                | https://www.amazon.com/DIYhz-Environmental-Protection-Electrical-Products/dp/B07BPKZ2RG                                              | Switch should match given mounting dimensions to work with the 3d printed case STL                                    |
-| 3d Printed Enclosure                                     | PixelArtCamera_enclosure.stl                                                                                                         | PLA 15% infill should work just fine                                                                                  |
+| 3d Printed Enclosure                                     | https://github.com/parallelsuns/PixelArtCamera/blob/main/PixelArtCamera_enclosure.stl                                                | PLA 15% infill should work just fine                                                                                  |
 
 ## Assembly
 
