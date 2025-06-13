@@ -10,6 +10,10 @@ The code isn't very clean as this was just a fun side-project. You have been war
 
 Also, I did not bother with computing an accurate battery percentage based on the discharge curve or anything so the battery percentage indicator is VERY VERY approximate.
 
+## Usage Instructions
+
+See https://github.com/parallelsuns/PixelArtCamera/blob/main/User_Manual.md
+
 ## Building
 
 Build using Arduino IDE 2.3.6. You should set up the build environment following Waveshare's instructions provided here: https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-2#Environment_Setup.
@@ -17,6 +21,7 @@ Build using Arduino IDE 2.3.6. You should set up the build environment following
 Ensure you are able to build the example projects provided.
 
 You'll need the cst816 library, which can be found as part of the 'offline component package' linked at the bottom of the page linked above.
+
 ## Requirements
 
 | Library                                                                                     | Version | Remarks                                              |
